@@ -10,7 +10,7 @@ In this project, I applied **feature scaling techniques** to the **Iris dataset*
 
 ## 📂 Project Structure
 ```
-|-- project_01
+|-- project
     |-- README.md   # Documentation of the project
     |-- feature_scaling.ipynb   # Python script implementing feature scaling
 ```
